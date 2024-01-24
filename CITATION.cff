@@ -16,7 +16,10 @@ preferred-citation:
   - family-names: "Pucci"
     given-names: "Daniele"
     orcid: "https://orcid.org/0000-0002-7600-3203"
+  collection-title: "2023 IEEE 19th International Conference on Body Sensor Networks (BSN)"
   doi: "10.1109/BSN58485.2023.10331259"
-  conference: "IEEE Body Sensor Network 2023"
   title: "Towards a real-world application of wearable sensors for musculoskeletal disorders prevention: the iFeel Wired Suit"
   year: 2023
+  volume: 
+  number:
+  pages: 1-4
