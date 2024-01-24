@@ -16,11 +16,6 @@ preferred-citation:
     given-names: "Daniele"
     orcid: "https://orcid.org/0000-0002-7600-3203"
   doi: "10.1109/BSN58485.2023.10331259"
-  journal: "IEEE Body Sensor Network"
-  month: 1
-  start: 1 # First page number
-  end: 2 # Last page number
+  collection-title: "Proceedings of IEEE Body Sensor Network 2023"
   title: "Towards a real-world application of wearable sensors for musculoskeletal disorders prevention: the iFeel Wired Suit"
-  issue: 1
-  volume: 1
   year: 2023
