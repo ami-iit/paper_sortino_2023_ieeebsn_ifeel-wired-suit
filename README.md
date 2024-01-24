@@ -15,7 +15,7 @@ D. M. Sortino, L. Rapetti, E. Valli and D. Pucci, "Towards a real-world applicat
 </div>
 
 <div align="center">
-  <a href="https://ieeexplore.ieee.org/document/10331259"><b>Paper</b></a> |
+  <a href="https://ieeexplore.ieee.org/document/10331259"><b>Paper</b></a>
 </div>
 
 ### Citing this work
