@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this material, please cite it as below."
 url: "https://github.com/ami-iit/paper_sortino_2023_ieeebsn_ifeel-wired-suit"
 preferred-citation:
-  type: article
+  type: proceedings
   authors:
   - family-names: "Sortino"
     given-names: "Dario Maria"
