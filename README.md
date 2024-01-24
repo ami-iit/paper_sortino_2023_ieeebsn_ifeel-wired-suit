@@ -40,5 +40,4 @@ If you find the work useful, please consider citing:
 This repository is maintained by:
 
 | | |
-|:---:|:---:|
 | [<img src="https://github.com/dariosortino.png" width="40">](https://github.com/dariosortino) | [@dariosortino](https://github.com/dariosortino) |
